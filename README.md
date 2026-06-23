@@ -23,6 +23,9 @@ http://localhost:8000
 Django Admin:
 http://localhost:8000/admin
 
+Dokumentasi 
+![Django Home](screenshoot/homedjango.png)
+
 ⚙️Environment Variables
 
 Konfigurasi database menggunakan .env:
