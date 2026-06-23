@@ -24,7 +24,7 @@ Django Admin:
 http://localhost:8000/admin
 
 Dokumentasi 
-(screenshoot/homedjango.png)
+screenshoots/homedjango.png
 
 ⚙️Environment Variables
 
